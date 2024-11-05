@@ -1,7 +1,4 @@
-Bien sûr, voici le code pour votre README :
-
-```markdown
-# 👋 Bonjour, je suis Tyana Arrondell
+👋 Bonjour, je suis Tyana Arrondell
 
 Passionnée de cybersécurité, j'ai obtenu mon certificat Cybersécurité Google. Je m’entraîne activement sur TryHackMe et Blue Team Labs, et je développe un laboratoire personnel sur AWS pour approfondir mes compétences.  
 Mon objectif est de devenir analyste sécurité et de passer prochainement la certification Blue Team Level 1. En dehors de la cybersécurité, j'adore voyager et lire ; je suis aussi bêta-lectrice.
@@ -9,7 +6,7 @@ Mon objectif est de devenir analyste sécurité et de passer prochainement la ce
 
 ---
 
-## 🛠 Compétences
+🛠 Compétences
 
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge) 
 ![Chronicle](https://img.shields.io/badge/-Chronicle-yellow?style=for-the-badge) 
@@ -22,7 +19,7 @@ Mon objectif est de devenir analyste sécurité et de passer prochainement la ce
 
 ---
 
-## 📂 Portfolio
+📂 Portfolio
 
 - [Audit de sécurité](https://github.com/username/repo-audit-securite)
 - [Sécurité des réseaux](https://github.com/username/repo-securite-reseaux)
