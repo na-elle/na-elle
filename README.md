@@ -20,11 +20,8 @@ Mon objectif est de devenir analyste sécurité et de passer prochainement la ce
 
 ---
 📂 Portfolio
-
-- [Audit de sécurité](https://github.com/username/repo-audit-securite)
-- [Sécurité des réseaux](https://github.com/username/repo-securite-reseaux)
-- [Linux et SQL](https://github.com/username/repo-linux-sql)
-- [Détection et Réponse](https://github.com/username/repo-detection-reponse)
-- [Automatisation avec Python](https://github.com/username/repo-automatisation-python)
-```
+- [Audit sécurité - Botium Toys](https://github.com/na-elle/Audit_de_Securite_Botium_Toys)
+- [Sécurité des réseaux - Documenter un incident](https://github.com/na-elle/Documenter_un_incident_-_l-aide_du_journal_du_gestionnaire_des_incidents)
+- [Linux et SQL](https://github.com/na-elle/Linux_SQL)
+- [Automatisation avec Python - Algorithme de mises à jour de fichiers](https://github.com/na-elle/Algorithme_de_mises_jour_de_fichiers_Python)
 
