@@ -18,7 +18,6 @@ Mon objectif est de devenir analyste sécurité et de passer prochainement la ce
 ![Triade CIA](https://img.shields.io/badge/-Triade%20CIA-green?style=for-the-badge)
 
 ---
-
 📂 Portfolio
 
 - [Audit de sécurité](https://github.com/username/repo-audit-securite)
