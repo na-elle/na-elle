@@ -8,6 +8,7 @@ Mon objectif est de devenir analyste sécurité et de passer prochainement la ce
 
 🛠 Compétences
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge) 
 ![Chronicle](https://img.shields.io/badge/-Chronicle-yellow?style=for-the-badge) 
 ![Splunk](https://img.shields.io/badge/-Splunk-blue?style=for-the-badge) 
